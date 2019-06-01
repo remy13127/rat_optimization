@@ -1,5 +1,7 @@
 # rat_optimization
 
+01/06 - Introducing penalty and reward functions into the computation of the optimal trajectory for a linear and quadratic cost (Power_law_models.ipynb). Results are presented differently. 
+
 22/05 - Finally, Keller's model implemented using CasADi in another notebook "Keller_model.ipynb". 
 
 22/05 - CasADi added plus a first notebook using this tool "Power_law_model.ipynb". The optimal trajectory for the rat is computed assuming a linear and quadratic model for the energetic cost. 
